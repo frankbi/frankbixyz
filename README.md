@@ -1,0 +1,2 @@
+# frankbixyz.github.io
+.xyz
